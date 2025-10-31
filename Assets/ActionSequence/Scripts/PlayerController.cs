@@ -16,6 +16,10 @@ namespace ActionSequence
 
         private void Move()
         {
+            if (ActionLock.IsLocked)
+            {
+                return; // 动作锁开启时，禁止移动输入
+            }
             if(Input.GetKey(KeyCode.A))
             {
                 transform.position += Vector3.left * Time.deltaTime * moveSpeed;

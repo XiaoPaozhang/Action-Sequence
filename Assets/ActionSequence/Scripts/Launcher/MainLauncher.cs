@@ -9,7 +9,12 @@ namespace ActionSequence
     {
         public void Launch()
         {
-            Debug.Log($"[{this.GetType().Name}] 游戏启动");
+            // 配置为目标 60fps（渲染）并同步物理步长
+            QualitySettings.vSyncCount = 0;
+            Application.targetFrameRate = 60;
+            Time.fixedDeltaTime = 1f / 60f;
+
+            Debug.Log($"[{this.GetType().Name}] 游戏启动，目标帧率=60");
         }
     }
 }
