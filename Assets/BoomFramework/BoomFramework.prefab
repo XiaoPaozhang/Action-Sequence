@@ -41,7 +41,7 @@ Camera:
   m_GameObject: {fileID: 95781189}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 3
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -518,7 +518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 086441e070151354bb1e828178a15e4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _providerType: 1
+  _providerType: 0
   _defaultRootPath: Assets/GameAssetsBundle
   _uiSubPath: ui
 --- !u!1 &262806951932109293
@@ -569,7 +569,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _isShowFullName: 0
-  _selectedLauncherTypeName: BoomFramework.TestILauncher, Assembly-CSharp, Version=0.0.0.0,
+  _selectedLauncherTypeName: ActionSequence.MainLauncher, Assembly-CSharp, Version=0.0.0.0,
     Culture=neutral, PublicKeyToken=null
 --- !u!1 &262806952566243340
 GameObject:
