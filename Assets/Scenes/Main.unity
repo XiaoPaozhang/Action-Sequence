@@ -422,6 +422,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af74c94a75d2ab642bb1e2c9ece7421f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enableStatsLog: 1
+  logIntervalSeconds: 1
 --- !u!1 &2021636351
 GameObject:
   m_ObjectHideFlags: 0
@@ -509,8 +511,7 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 567608864, guid: 8eeb67634c7ab87458993e18387de2cd, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8eeb67634c7ab87458993e18387de2cd, type: 3}
 --- !u!1 &8990726413357162004 stripped
 GameObject:
