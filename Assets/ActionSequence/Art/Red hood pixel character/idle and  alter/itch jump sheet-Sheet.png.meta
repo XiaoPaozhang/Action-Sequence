@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: ed667420500c7c44a8f018af1ac29360
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c672656868e104394edc851b91dfcd
+      internalID: -2015562201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538d561bfcc20dc429975bbd1204b43f
+      internalID: -720803387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5a36eb3798e8440b3bfc6d083af2fa
+      internalID: -515115614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c4124dbbf55154cb8258dc9a26132c
+      internalID: -912358895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2df01b5c47efbd44a37275ab549afc4
+      internalID: -865444964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940f225dc5944914ca6fa8ac28ac59c4
+      internalID: -761828057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3584f01a97acd1469fe866dfb9e9d44
+      internalID: 593136450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6903fcba183c747a7c5b148fa21ed5
+      internalID: 1912474208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8b076457db9446ab24acb6a472ee9
+      internalID: 1755028627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fc943980bdd314cb117e607da16505
+      internalID: 776364376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddeb952fdc894f4aa69be86a11cf559
+      internalID: 67680420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8afef6c58011364092f8f458d3e5fd9
+      internalID: 831547954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3654811e9a41543a3210965effbee3
+      internalID: -426628742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9628fb4ea8d9f98428c541259ad7a188
+      internalID: -1181299276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacd12b0ff120974d9382a1a98d8cf22
+      internalID: 1602006749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a00868e19f244f9eced2477b824d6
+      internalID: 295564499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b079e0d1b6284044a64a6a8b2da647b
+      internalID: -493693290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1205b1b3d2def1240be6d7c44ab32e17
+      internalID: -385330348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch jump sheet-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47502c8fc3f79034981d1868c88606f5
+      internalID: -1833327695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f6a1e4ac82161654a916a4acaf00a97c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      itch jump sheet-Sheet_0: -2015562201
+      itch jump sheet-Sheet_1: -720803387
+      itch jump sheet-Sheet_10: 67680420
+      itch jump sheet-Sheet_11: 831547954
+      itch jump sheet-Sheet_12: -426628742
+      itch jump sheet-Sheet_13: -1181299276
+      itch jump sheet-Sheet_14: 1602006749
+      itch jump sheet-Sheet_15: 295564499
+      itch jump sheet-Sheet_16: -493693290
+      itch jump sheet-Sheet_17: -385330348
+      itch jump sheet-Sheet_18: -1833327695
+      itch jump sheet-Sheet_2: -515115614
+      itch jump sheet-Sheet_3: -912358895
+      itch jump sheet-Sheet_4: -865444964
+      itch jump sheet-Sheet_5: -761828057
+      itch jump sheet-Sheet_6: 593136450
+      itch jump sheet-Sheet_7: 1912474208
+      itch jump sheet-Sheet_8: 1755028627
+      itch jump sheet-Sheet_9: 776364376
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

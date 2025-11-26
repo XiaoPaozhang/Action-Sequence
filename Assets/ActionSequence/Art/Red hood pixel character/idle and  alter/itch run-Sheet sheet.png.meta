@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 8a4f45b787da8f74084055ae06737c9f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb4e9ca00de4bf479eeb0e17a1b45f1
+      internalID: 136984446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2d5a48072530f4996bda18a78b7386
+      internalID: -1836516112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b207dd55101efb643b6846ee6666592d
+      internalID: 1309397191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ea27ce23b51b44b3f11ebd69a367a
+      internalID: -501490161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17cf58494e50c43a0225e94f46da9a
+      internalID: -949819323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2db2c566dcda74996c2d71ed9c1323
+      internalID: -1636998837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75de4da736e8c384ab7de2f774e5415b
+      internalID: 294041965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c27f4c61c770f34694b41dc37b250a8
+      internalID: 710400354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15759ff463a229b4b9336e6580209228
+      internalID: 608511276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78657dd71bd26ab4da81be107c637554
+      internalID: 2020692036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895dfab52bba2e748863e3a0f509472c
+      internalID: 1725840349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fadd69541dcfbf4cab07a229a4e60b0
+      internalID: -598773927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4820c0ee19de34788021ebf6e5e45e
+      internalID: 38994872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e3bd0c1d40db47985135f5f922095
+      internalID: 1821010672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611028ad906bab44aa919d71cb649ba8
+      internalID: 2127493169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45840fbaec1361f4cbf6074b06bafcd3
+      internalID: 1564775366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5400ff146e2e37f4087b726cb475ef60
+      internalID: -2045982028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0418c5142d3a12843b1c07003f5b2053
+      internalID: 740818294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4f36981b5e1044f9424482536e4e00
+      internalID: -1476174354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4799d01500a5b0848a1ae72e841fb964
+      internalID: 913489476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0f2ce79a443ad4c80d4b67798eb5bb
+      internalID: -216876227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6980917e3d829e4b970063ee7866591
+      internalID: -1512669264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cccae447c789d4783d31190c3cec97
+      internalID: -155981551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch run-Sheet sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e0baf7267621f42acacfdb59d87572
+      internalID: 1691360074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 90f8ec1a5faf26a45b4614de4e0d5979
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      itch run-Sheet sheet_0: 136984446
+      itch run-Sheet sheet_1: -1836516112
+      itch run-Sheet sheet_10: 1725840349
+      itch run-Sheet sheet_11: -598773927
+      itch run-Sheet sheet_12: 38994872
+      itch run-Sheet sheet_13: 1821010672
+      itch run-Sheet sheet_14: 2127493169
+      itch run-Sheet sheet_15: 1564775366
+      itch run-Sheet sheet_16: -2045982028
+      itch run-Sheet sheet_17: 740818294
+      itch run-Sheet sheet_18: -1476174354
+      itch run-Sheet sheet_19: 913489476
+      itch run-Sheet sheet_2: 1309397191
+      itch run-Sheet sheet_20: -216876227
+      itch run-Sheet sheet_21: -1512669264
+      itch run-Sheet sheet_22: -155981551
+      itch run-Sheet sheet_23: 1691360074
+      itch run-Sheet sheet_3: -501490161
+      itch run-Sheet sheet_4: -949819323
+      itch run-Sheet sheet_5: -1636998837
+      itch run-Sheet sheet_6: 294041965
+      itch run-Sheet sheet_7: 710400354
+      itch run-Sheet sheet_8: 608511276
+      itch run-Sheet sheet_9: 2020692036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

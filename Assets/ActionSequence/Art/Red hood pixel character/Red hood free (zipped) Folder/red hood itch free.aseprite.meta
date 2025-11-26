@@ -1,0 +1,4052 @@
+fileFormatVersion: 2
+guid: 2ff5c5a3fc27eb045992fbeb5360218c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: red hood itch free_Frame_0
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 219
+      height: 169
+    spriteID: 5447432a9b1e31d4e89c3c8e3299420f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: red hood itch free_Frame_1
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 181
+      width: 219
+      height: 169
+    spriteID: d912e6a921dcd494499492b882c00e52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 181}
+  - name: red hood itch free_Frame_2
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 358
+      width: 219
+      height: 169
+    spriteID: afd432760836c4444912f66182357fbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 358}
+  - name: red hood itch free_Frame_3
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 535
+      width: 219
+      height: 169
+    spriteID: 374f2832c46a1f547a9a2c2c45037b51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 535}
+  - name: red hood itch free_Frame_4
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 712
+      width: 219
+      height: 169
+    spriteID: 8deb1ea347ad511418a575cb1e365577
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 712}
+  - name: red hood itch free_Frame_5
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 889
+      width: 219
+      height: 169
+    spriteID: 8cbf678aa6411a94c93f0406de887efd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 889}
+  - name: red hood itch free_Frame_6
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1066
+      width: 219
+      height: 169
+    spriteID: 7d6d9122c4351854da2b461c2814742e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1066}
+  - name: red hood itch free_Frame_7
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1243
+      width: 219
+      height: 169
+    spriteID: e8bc413c6dd0c784a8f7352e5b7ac97d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1243}
+  - name: red hood itch free_Frame_8
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1420
+      width: 219
+      height: 169
+    spriteID: e3730ad98f8f39243914cf917922bf26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1420}
+  - name: red hood itch free_Frame_9
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1597
+      width: 219
+      height: 169
+    spriteID: f1470a36c88eb2f4a968bffb8fa988c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1597}
+  - name: red hood itch free_Frame_10
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1774
+      width: 219
+      height: 169
+    spriteID: 2cab5f6f541d5244480ed01858b9febb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1774}
+  - name: red hood itch free_Frame_11
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1951
+      width: 219
+      height: 169
+    spriteID: bd8d4414d0de1a345a651c3dc44fd355
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1951}
+  - name: red hood itch free_Frame_12
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2128
+      width: 219
+      height: 169
+    spriteID: c2a631f0d09316746b76f0a76519b00f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2128}
+  - name: red hood itch free_Frame_13
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2305
+      width: 219
+      height: 169
+    spriteID: 9008dbdcc2ea35d4fbdf282b56851cbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2305}
+  - name: red hood itch free_Frame_14
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2482
+      width: 219
+      height: 169
+    spriteID: b5860eb92c58e2643a0982d1861ddb76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2482}
+  - name: red hood itch free_Frame_15
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2659
+      width: 219
+      height: 169
+    spriteID: 079c45f82738c6f48b7be1aaeda0207a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2659}
+  - name: red hood itch free_Frame_16
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2836
+      width: 219
+      height: 169
+    spriteID: 1685cc3da21501f49b35628ebe1101c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2836}
+  - name: red hood itch free_Frame_17
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3013
+      width: 219
+      height: 169
+    spriteID: 281d22b25ef8ba34999764be3fdd6306
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3013}
+  - name: red hood itch free_Frame_18
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3190
+      width: 219
+      height: 169
+    spriteID: 7894dae356b6d5c43b5d9bcf882bc0e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3190}
+  - name: red hood itch free_Frame_19
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3367
+      width: 219
+      height: 169
+    spriteID: d48db79bd3a044f4299479fdb38ac6da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3367}
+  - name: red hood itch free_Frame_20
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3544
+      width: 219
+      height: 169
+    spriteID: a673b7e98058ec949a01d228ea21f1a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3544}
+  - name: red hood itch free_Frame_21
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3721
+      width: 219
+      height: 169
+    spriteID: a77d7431109cd664986235d77820c96f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3721}
+  - name: red hood itch free_Frame_22
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3898
+      width: 219
+      height: 169
+    spriteID: 93b5e8fb718b763439ae2ad31776c69b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 3898}
+  - name: red hood itch free_Frame_23
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 4
+      width: 219
+      height: 169
+    spriteID: b9542752e176a8247b1ccac54ecb96fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 4}
+  - name: red hood itch free_Frame_24
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 181
+      width: 219
+      height: 169
+    spriteID: f27d8bdc568a676489e526147b259692
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 181}
+  - name: red hood itch free_Frame_25
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 358
+      width: 219
+      height: 169
+    spriteID: 288b07cc1e1d0cb48954ca965ca3e33f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 358}
+  - name: red hood itch free_Frame_26
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 535
+      width: 219
+      height: 169
+    spriteID: 9547e90392822c3458fe255b18cd8540
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 535}
+  - name: red hood itch free_Frame_27
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 712
+      width: 219
+      height: 169
+    spriteID: 816cd8053235f914785bb2cf4fde99af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 712}
+  - name: red hood itch free_Frame_28
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 889
+      width: 219
+      height: 169
+    spriteID: 9679fdc8520951246bf6a4181c4667a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 889}
+  - name: red hood itch free_Frame_29
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 1066
+      width: 219
+      height: 169
+    spriteID: b109242f8aaae804fa660f42ba371763
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 1066}
+  - name: red hood itch free_Frame_30
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 1243
+      width: 219
+      height: 169
+    spriteID: 1f62a63d0f64ed5468149fa5a5601899
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 1243}
+  - name: red hood itch free_Frame_31
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 1420
+      width: 219
+      height: 169
+    spriteID: 70a0c02a2090a2e4ca3f6ff9cd54aa7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 1420}
+  - name: red hood itch free_Frame_32
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 1597
+      width: 219
+      height: 169
+    spriteID: 2fca08a295a868449a9559cd94cf02c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 1597}
+  - name: red hood itch free_Frame_33
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 1774
+      width: 219
+      height: 169
+    spriteID: 008d10fd3bc9f8a48ae3385b670d9042
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 1774}
+  - name: red hood itch free_Frame_34
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 1951
+      width: 219
+      height: 169
+    spriteID: 210528c54fd1c7b4fb31330c9fa668b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 1951}
+  - name: red hood itch free_Frame_35
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 2128
+      width: 219
+      height: 169
+    spriteID: a349e9e579797564b89fd0a6aaa4339e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 2128}
+  - name: red hood itch free_Frame_36
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 2305
+      width: 219
+      height: 169
+    spriteID: 44754243b06576d48ac8862ca94b140f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 2305}
+  - name: red hood itch free_Frame_37
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 2482
+      width: 219
+      height: 169
+    spriteID: 627f94d37f71783468c525ee1dd15b81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 2482}
+  - name: red hood itch free_Frame_38
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 2659
+      width: 219
+      height: 169
+    spriteID: d5f13fea1a8002146b41de9d2235b493
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 2659}
+  - name: red hood itch free_Frame_39
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 2836
+      width: 219
+      height: 169
+    spriteID: 7679af43d013e8a4992c8e485ffb99ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 2836}
+  - name: red hood itch free_Frame_40
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 3013
+      width: 219
+      height: 169
+    spriteID: df303789884cf714fb75c339beae3588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 3013}
+  - name: red hood itch free_Frame_41
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 3190
+      width: 219
+      height: 169
+    spriteID: fc088278b731e2c43acea79ad9ddd72e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 3190}
+  - name: red hood itch free_Frame_42
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 3367
+      width: 219
+      height: 169
+    spriteID: 94ef26c04bd2d4a4c96d228627dc1a2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 3367}
+  - name: red hood itch free_Frame_43
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 3544
+      width: 219
+      height: 169
+    spriteID: f96cd79a150795f4da88ca206c706584
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 3544}
+  - name: red hood itch free_Frame_44
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 3721
+      width: 219
+      height: 169
+    spriteID: 60d156144f3192043addd8173d53fd6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 3721}
+  - name: red hood itch free_Frame_45
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 3898
+      width: 219
+      height: 169
+    spriteID: eb5d1ef3125d51d45acededa7b2a699a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 3898}
+  - name: red hood itch free_Frame_46
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 4
+      width: 219
+      height: 169
+    spriteID: 9a2b7d7f540dce0419ef3b69c707f0a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 4}
+  - name: red hood itch free_Frame_47
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 181
+      width: 219
+      height: 169
+    spriteID: 19b8be93f92b8d845a0f326d6ffdb563
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 181}
+  - name: red hood itch free_Frame_48
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 358
+      width: 219
+      height: 169
+    spriteID: 2da5127ca0507c74bb25397f71f81baa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 358}
+  - name: red hood itch free_Frame_49
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 535
+      width: 219
+      height: 169
+    spriteID: c08c0c25c3626424f9266b0e3a1dcc93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 535}
+  - name: red hood itch free_Frame_50
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 712
+      width: 219
+      height: 169
+    spriteID: d175822806f2b894fb8a825fd68100a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 712}
+  - name: red hood itch free_Frame_51
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 889
+      width: 219
+      height: 169
+    spriteID: 4cb1d795fa25565489d0d26ec569b2ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 889}
+  - name: red hood itch free_Frame_52
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 1066
+      width: 219
+      height: 169
+    spriteID: 72a1e9140d8f2bb449d4a9f5a58c08d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 1066}
+  - name: red hood itch free_Frame_53
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 1243
+      width: 219
+      height: 169
+    spriteID: 568031ac24ee1cf4c9b31c43f60784e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 1243}
+  - name: red hood itch free_Frame_54
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 1420
+      width: 219
+      height: 169
+    spriteID: e15d8d7557f138844b869452897d34e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 1420}
+  - name: red hood itch free_Frame_55
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 1597
+      width: 219
+      height: 169
+    spriteID: 6b36ae44eb88e6145b5c01a0bc6ef2a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 1597}
+  - name: red hood itch free_Frame_56
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 1774
+      width: 219
+      height: 169
+    spriteID: 851e72b148485b7429627ed13fa666d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 1774}
+  - name: red hood itch free_Frame_57
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 1951
+      width: 219
+      height: 169
+    spriteID: 7d610e69b42069b4d982170344167bb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 1951}
+  - name: red hood itch free_Frame_58
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 2128
+      width: 219
+      height: 169
+    spriteID: f0e92fc1869ff9d49b4339037bd525e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 2128}
+  - name: red hood itch free_Frame_59
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 2305
+      width: 219
+      height: 169
+    spriteID: fb39fc378e743b349b9c58ea4463e1f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 2305}
+  - name: red hood itch free_Frame_60
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 2482
+      width: 219
+      height: 169
+    spriteID: 2ea4e00dd797aa8448263fa44e139fbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 2482}
+  - name: red hood itch free_Frame_61
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 2659
+      width: 219
+      height: 169
+    spriteID: d20825f23ff71e242b0cf3c85910ace2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 2659}
+  - name: red hood itch free_Frame_62
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 2836
+      width: 219
+      height: 169
+    spriteID: 61dce5178aee778459878cd7ff5990f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 2836}
+  - name: red hood itch free_Frame_63
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 3013
+      width: 219
+      height: 169
+    spriteID: 63ec27a25b8b3884f8bbbd6f881c996e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 3013}
+  - name: red hood itch free_Frame_64
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 3190
+      width: 219
+      height: 169
+    spriteID: cadd3f69d0bb7964bb0416086ef272c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 3190}
+  - name: red hood itch free_Frame_65
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 3367
+      width: 219
+      height: 169
+    spriteID: aec5ec584aa85014fa2e63fdfd9863f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 3367}
+  - name: red hood itch free_Frame_66
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 3544
+      width: 219
+      height: 169
+    spriteID: 53fff7202b03b504985048d71e8abe22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 3544}
+  - name: red hood itch free_Frame_67
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 3721
+      width: 219
+      height: 169
+    spriteID: 23d1dc98065d53643a2d8c855407d849
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 3721}
+  - name: red hood itch free_Frame_68
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 458
+      y: 3898
+      width: 219
+      height: 169
+    spriteID: 84fee19983613644fbc5711042d7678d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 458, y: 3898}
+  - name: red hood itch free_Frame_69
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 4
+      width: 219
+      height: 169
+    spriteID: beae63c41c7f8b5498b6c0a4d6933919
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 4}
+  - name: red hood itch free_Frame_70
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 181
+      width: 219
+      height: 169
+    spriteID: d0bbd7b4e55232b48aa45a35f073a6a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 181}
+  - name: red hood itch free_Frame_71
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 358
+      width: 219
+      height: 169
+    spriteID: 5ce05e08f83fc3f4c9e03d4678d45983
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 358}
+  - name: red hood itch free_Frame_72
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 535
+      width: 219
+      height: 169
+    spriteID: 8903201aa02538a4ba94635832ed34f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 535}
+  - name: red hood itch free_Frame_73
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 712
+      width: 219
+      height: 169
+    spriteID: fea11daedefc2fe4bb34fbecb962d1ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 712}
+  - name: red hood itch free_Frame_74
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 889
+      width: 219
+      height: 169
+    spriteID: 9c3051b03bcfd794e85fb6bab6c2e983
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 889}
+  - name: red hood itch free_Frame_75
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 1066
+      width: 219
+      height: 169
+    spriteID: a67ae9d4aa1dde245a670580cc3a80d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 1066}
+  - name: red hood itch free_Frame_76
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 1243
+      width: 219
+      height: 169
+    spriteID: 3800e6d8886804949b7eebb16379ac94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 1243}
+  - name: red hood itch free_Frame_77
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 1420
+      width: 219
+      height: 169
+    spriteID: 88ce81e55f45784489b1d0041c4b4fc7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 1420}
+  - name: red hood itch free_Frame_78
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 1597
+      width: 219
+      height: 169
+    spriteID: 505d0b69157a554499696503d2756ccf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 1597}
+  - name: red hood itch free_Frame_79
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 1774
+      width: 219
+      height: 169
+    spriteID: d7acf0b782bf86d45b3a0c8b269a2852
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 1774}
+  - name: red hood itch free_Frame_80
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 1951
+      width: 219
+      height: 169
+    spriteID: 290a8f179f9d3c74c9a70300b60d1c54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 1951}
+  - name: red hood itch free_Frame_81
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 2128
+      width: 219
+      height: 169
+    spriteID: 0d5160f8ab106604d83114e946185d91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 2128}
+  - name: red hood itch free_Frame_82
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 2305
+      width: 219
+      height: 169
+    spriteID: 58e6a99317bf34948b3231b374f26200
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 2305}
+  - name: red hood itch free_Frame_83
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 2482
+      width: 219
+      height: 169
+    spriteID: 94f0a9b1d0e11404c9228e8afcf46862
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 2482}
+  - name: red hood itch free_Frame_84
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 2659
+      width: 219
+      height: 169
+    spriteID: 7b4133718a757554f9b5b017cc61de47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 2659}
+  - name: red hood itch free_Frame_85
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 2836
+      width: 219
+      height: 169
+    spriteID: 4bd5a329b3fc51e4ea0f2b65d0df9c60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 2836}
+  - name: red hood itch free_Frame_86
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 3013
+      width: 219
+      height: 169
+    spriteID: a917862fb08773b49954e77e0fcda7c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 3013}
+  - name: red hood itch free_Frame_87
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 3190
+      width: 219
+      height: 169
+    spriteID: 12c1c2e71fd21bd4192a66cfa17c34b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 3190}
+  - name: red hood itch free_Frame_88
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 3367
+      width: 219
+      height: 169
+    spriteID: 2fd3a47b2c7260e429c12b4864996f80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 3367}
+  - name: red hood itch free_Frame_89
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 3544
+      width: 219
+      height: 169
+    spriteID: 8c39f141099491c418fc10ab5698f8ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 3544}
+  - name: red hood itch free_Frame_90
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 3721
+      width: 219
+      height: 169
+    spriteID: cecf0b27a8d3a7c4e8ec2f1ddea25091
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 3721}
+  - name: red hood itch free_Frame_91
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 685
+      y: 3898
+      width: 219
+      height: 169
+    spriteID: 7cc82c9cfd2518d4189d050ff6f87d1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 685, y: 3898}
+  - name: red hood itch free_Frame_92
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 4
+      width: 219
+      height: 169
+    spriteID: af52e128834d7fa458627a14eb3ccaab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 4}
+  - name: red hood itch free_Frame_93
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 181
+      width: 219
+      height: 169
+    spriteID: 8fbe521ef0e7b63498bcde61b7e3a6d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 181}
+  - name: red hood itch free_Frame_94
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 358
+      width: 219
+      height: 169
+    spriteID: 53d1371029418ca4e9b3c52a0771c90d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 358}
+  - name: red hood itch free_Frame_95
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 535
+      width: 219
+      height: 169
+    spriteID: 13f178683600c7f48bcf20d113da2744
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 535}
+  - name: red hood itch free_Frame_96
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 712
+      width: 219
+      height: 169
+    spriteID: 2e61b2dab2f75954e9dd9aec5785ebf4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 712}
+  - name: red hood itch free_Frame_97
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 889
+      width: 219
+      height: 169
+    spriteID: 3fb687a4aa3028e4d8dab73c78b4f9e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 889}
+  - name: red hood itch free_Frame_98
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 1066
+      width: 219
+      height: 169
+    spriteID: 9e0747aae088f574b876304ab9204ff6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 1066}
+  - name: red hood itch free_Frame_99
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 1243
+      width: 219
+      height: 169
+    spriteID: 85ac0d020feb8604a863d26e9bc536c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 1243}
+  - name: red hood itch free_Frame_100
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 1420
+      width: 219
+      height: 169
+    spriteID: 23d7cba59c5b3254b98f4c4a216f8257
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 1420}
+  - name: red hood itch free_Frame_101
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 1597
+      width: 219
+      height: 169
+    spriteID: d97792fb3a6c3c44f85b1ff7c2c3ef54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 1597}
+  - name: red hood itch free_Frame_102
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 1774
+      width: 219
+      height: 169
+    spriteID: 6a6a1e70a4ad61a4cbb2d90435e38f8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 1774}
+  - name: red hood itch free_Frame_103
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 1951
+      width: 219
+      height: 169
+    spriteID: 96b25ff9d5ae17f4b8a8fb164f4c8bd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 1951}
+  - name: red hood itch free_Frame_104
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 2128
+      width: 219
+      height: 169
+    spriteID: 5389bf77d75fa984db4eefe4d8428377
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 2128}
+  - name: red hood itch free_Frame_105
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 2305
+      width: 219
+      height: 169
+    spriteID: 277634cb3320dc142bab5123ea701acf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 2305}
+  - name: red hood itch free_Frame_106
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 2482
+      width: 219
+      height: 169
+    spriteID: b8fcd3bd8f2dbe448ae1c7faf6441391
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 2482}
+  - name: red hood itch free_Frame_107
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 2659
+      width: 219
+      height: 169
+    spriteID: 80b1b6e53a55f004f893759d07413e99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 2659}
+  - name: red hood itch free_Frame_108
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 2836
+      width: 219
+      height: 169
+    spriteID: 38a5e04a82624af43aa7d42f70a41874
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 2836}
+  - name: red hood itch free_Frame_109
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 3013
+      width: 219
+      height: 169
+    spriteID: 774f8d06b47316c48bcb0a1cf5cb3980
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 3013}
+  - name: red hood itch free_Frame_110
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 3190
+      width: 219
+      height: 169
+    spriteID: 56685a789c9303b419319ac5aa094b30
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 3190}
+  - name: red hood itch free_Frame_111
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 3367
+      width: 219
+      height: 169
+    spriteID: 657dbfbf1c23b2a4dac852ec9e5f7a04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 3367}
+  - name: red hood itch free_Frame_112
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 3544
+      width: 219
+      height: 169
+    spriteID: 828f734893384c24998a477bead32578
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 3544}
+  - name: red hood itch free_Frame_113
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 3721
+      width: 219
+      height: 169
+    spriteID: f5749263b6d963b40b3a357928ccfc42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 3721}
+  - name: red hood itch free_Frame_114
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 912
+      y: 3898
+      width: 219
+      height: 169
+    spriteID: 7c9e14037a9fb1640b8e167c774c3e87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 912, y: 3898}
+  - name: red hood itch free_Frame_115
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 4
+      width: 219
+      height: 169
+    spriteID: b1ed893114fffe248b0143d23bc2a04c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 4}
+  - name: red hood itch free_Frame_116
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 181
+      width: 219
+      height: 169
+    spriteID: 0993db227cd4c70418faeaec72d7594b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 181}
+  - name: red hood itch free_Frame_117
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 358
+      width: 219
+      height: 169
+    spriteID: 849ec09947ff3e64dac5548e6b3889f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 358}
+  - name: red hood itch free_Frame_118
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 535
+      width: 219
+      height: 169
+    spriteID: 4bf931429f501d94ea15c7ffdc8f6fd4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 535}
+  - name: red hood itch free_Frame_119
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 712
+      width: 219
+      height: 169
+    spriteID: 09b6eaff8a514ce4992412e0363d3093
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 712}
+  - name: red hood itch free_Frame_120
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 889
+      width: 219
+      height: 169
+    spriteID: 0075f5997b3ff8742992438296a73c8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 889}
+  - name: red hood itch free_Frame_121
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 1066
+      width: 219
+      height: 169
+    spriteID: b75bdb5d8b938794da05f103a9dd4aa2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 1066}
+  - name: red hood itch free_Frame_122
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 1243
+      width: 219
+      height: 169
+    spriteID: f591b938b6daafc49938903fb11cfa4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 1243}
+  - name: red hood itch free_Frame_123
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 1420
+      width: 219
+      height: 169
+    spriteID: 1e33bdf006eee4e4c809c9bfca8931a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 1420}
+  - name: red hood itch free_Frame_124
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 1597
+      width: 219
+      height: 169
+    spriteID: 970e44dacc2369e4e829f3c35cacf780
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 1597}
+  - name: red hood itch free_Frame_125
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 1774
+      width: 219
+      height: 169
+    spriteID: 6b2781a6f36a668429df4fbd652e0b0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 1774}
+  - name: red hood itch free_Frame_126
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 1951
+      width: 219
+      height: 169
+    spriteID: 4897e05c04a097c49b50595b5705ea0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 1951}
+  - name: red hood itch free_Frame_127
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 2128
+      width: 219
+      height: 169
+    spriteID: f5daf29b733cbcd44b318dc86839c2de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 2128}
+  - name: red hood itch free_Frame_128
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 2305
+      width: 219
+      height: 169
+    spriteID: e16584b35f0427d46b15f5ecd79755c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 2305}
+  - name: red hood itch free_Frame_129
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 2482
+      width: 219
+      height: 169
+    spriteID: 14c0b0e62730bdf4a8784cdef95c6acb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 2482}
+  - name: red hood itch free_Frame_130
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 2659
+      width: 219
+      height: 169
+    spriteID: 9309f4b20a2722043b605a28a435daa3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 2659}
+  - name: red hood itch free_Frame_131
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 2836
+      width: 219
+      height: 169
+    spriteID: e059c247f4b4be341a9909d26c70fe71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 2836}
+  - name: red hood itch free_Frame_132
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 3013
+      width: 219
+      height: 169
+    spriteID: 6876603c6535b7147962a2a7e8056a62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 3013}
+  - name: red hood itch free_Frame_133
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 3190
+      width: 219
+      height: 169
+    spriteID: 131a054dbe0e01644a3b0de029fe66e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 3190}
+  - name: red hood itch free_Frame_134
+    originalName: 
+    pivot: {x: 0.51826483, y: 0.21301776}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1139
+      y: 3367
+      width: 219
+      height: 169
+    spriteID: b86b2e6e785f828478496b0a88207a3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1139, y: 3367}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -2120603739
+    name: red hood itch free
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: red hood itch free_Frame_0
+      frameIndex: 0
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 5447432a9b1e31d4e89c3c8e3299420f
+    - name: red hood itch free_Frame_1
+      frameIndex: 1
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: d912e6a921dcd494499492b882c00e52
+    - name: red hood itch free_Frame_2
+      frameIndex: 2
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: afd432760836c4444912f66182357fbd
+    - name: red hood itch free_Frame_3
+      frameIndex: 3
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 374f2832c46a1f547a9a2c2c45037b51
+    - name: red hood itch free_Frame_4
+      frameIndex: 4
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 8deb1ea347ad511418a575cb1e365577
+    - name: red hood itch free_Frame_5
+      frameIndex: 5
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 8cbf678aa6411a94c93f0406de887efd
+    - name: red hood itch free_Frame_6
+      frameIndex: 6
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 7d6d9122c4351854da2b461c2814742e
+    - name: red hood itch free_Frame_7
+      frameIndex: 7
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: e8bc413c6dd0c784a8f7352e5b7ac97d
+    - name: red hood itch free_Frame_8
+      frameIndex: 8
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: e3730ad98f8f39243914cf917922bf26
+    - name: red hood itch free_Frame_9
+      frameIndex: 9
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: f1470a36c88eb2f4a968bffb8fa988c8
+    - name: red hood itch free_Frame_10
+      frameIndex: 10
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 2cab5f6f541d5244480ed01858b9febb
+    - name: red hood itch free_Frame_11
+      frameIndex: 11
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: bd8d4414d0de1a345a651c3dc44fd355
+    - name: red hood itch free_Frame_12
+      frameIndex: 12
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: c2a631f0d09316746b76f0a76519b00f
+    - name: red hood itch free_Frame_13
+      frameIndex: 13
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 9008dbdcc2ea35d4fbdf282b56851cbd
+    - name: red hood itch free_Frame_14
+      frameIndex: 14
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: b5860eb92c58e2643a0982d1861ddb76
+    - name: red hood itch free_Frame_15
+      frameIndex: 15
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 079c45f82738c6f48b7be1aaeda0207a
+    - name: red hood itch free_Frame_16
+      frameIndex: 16
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 1685cc3da21501f49b35628ebe1101c2
+    - name: red hood itch free_Frame_17
+      frameIndex: 17
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 281d22b25ef8ba34999764be3fdd6306
+    - name: red hood itch free_Frame_18
+      frameIndex: 18
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 7894dae356b6d5c43b5d9bcf882bc0e8
+    - name: red hood itch free_Frame_19
+      frameIndex: 19
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: d48db79bd3a044f4299479fdb38ac6da
+    - name: red hood itch free_Frame_20
+      frameIndex: 20
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: a673b7e98058ec949a01d228ea21f1a6
+    - name: red hood itch free_Frame_21
+      frameIndex: 21
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: a77d7431109cd664986235d77820c96f
+    - name: red hood itch free_Frame_22
+      frameIndex: 22
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 93b5e8fb718b763439ae2ad31776c69b
+    - name: red hood itch free_Frame_23
+      frameIndex: 23
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: b9542752e176a8247b1ccac54ecb96fa
+    - name: red hood itch free_Frame_24
+      frameIndex: 24
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: f27d8bdc568a676489e526147b259692
+    - name: red hood itch free_Frame_25
+      frameIndex: 25
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 288b07cc1e1d0cb48954ca965ca3e33f
+    - name: red hood itch free_Frame_26
+      frameIndex: 26
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 9547e90392822c3458fe255b18cd8540
+    - name: red hood itch free_Frame_27
+      frameIndex: 27
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 816cd8053235f914785bb2cf4fde99af
+    - name: red hood itch free_Frame_28
+      frameIndex: 28
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 9679fdc8520951246bf6a4181c4667a8
+    - name: red hood itch free_Frame_29
+      frameIndex: 29
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: b109242f8aaae804fa660f42ba371763
+    - name: red hood itch free_Frame_30
+      frameIndex: 30
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 1f62a63d0f64ed5468149fa5a5601899
+    - name: red hood itch free_Frame_31
+      frameIndex: 31
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 70a0c02a2090a2e4ca3f6ff9cd54aa7c
+    - name: red hood itch free_Frame_32
+      frameIndex: 32
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 2fca08a295a868449a9559cd94cf02c0
+    - name: red hood itch free_Frame_33
+      frameIndex: 33
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 008d10fd3bc9f8a48ae3385b670d9042
+    - name: red hood itch free_Frame_34
+      frameIndex: 34
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 210528c54fd1c7b4fb31330c9fa668b7
+    - name: red hood itch free_Frame_35
+      frameIndex: 35
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: a349e9e579797564b89fd0a6aaa4339e
+    - name: red hood itch free_Frame_36
+      frameIndex: 36
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 44754243b06576d48ac8862ca94b140f
+    - name: red hood itch free_Frame_37
+      frameIndex: 37
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 627f94d37f71783468c525ee1dd15b81
+    - name: red hood itch free_Frame_38
+      frameIndex: 38
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: d5f13fea1a8002146b41de9d2235b493
+    - name: red hood itch free_Frame_39
+      frameIndex: 39
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 7679af43d013e8a4992c8e485ffb99ff
+    - name: red hood itch free_Frame_40
+      frameIndex: 40
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: df303789884cf714fb75c339beae3588
+    - name: red hood itch free_Frame_41
+      frameIndex: 41
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: fc088278b731e2c43acea79ad9ddd72e
+    - name: red hood itch free_Frame_42
+      frameIndex: 42
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 94ef26c04bd2d4a4c96d228627dc1a2c
+    - name: red hood itch free_Frame_43
+      frameIndex: 43
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: f96cd79a150795f4da88ca206c706584
+    - name: red hood itch free_Frame_44
+      frameIndex: 44
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 60d156144f3192043addd8173d53fd6a
+    - name: red hood itch free_Frame_45
+      frameIndex: 45
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: eb5d1ef3125d51d45acededa7b2a699a
+    - name: red hood itch free_Frame_46
+      frameIndex: 46
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 9a2b7d7f540dce0419ef3b69c707f0a4
+    - name: red hood itch free_Frame_47
+      frameIndex: 47
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 19b8be93f92b8d845a0f326d6ffdb563
+    - name: red hood itch free_Frame_48
+      frameIndex: 48
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 2da5127ca0507c74bb25397f71f81baa
+    - name: red hood itch free_Frame_49
+      frameIndex: 49
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: c08c0c25c3626424f9266b0e3a1dcc93
+    - name: red hood itch free_Frame_50
+      frameIndex: 50
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: d175822806f2b894fb8a825fd68100a9
+    - name: red hood itch free_Frame_51
+      frameIndex: 51
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 4cb1d795fa25565489d0d26ec569b2ea
+    - name: red hood itch free_Frame_52
+      frameIndex: 52
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 72a1e9140d8f2bb449d4a9f5a58c08d4
+    - name: red hood itch free_Frame_53
+      frameIndex: 53
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 568031ac24ee1cf4c9b31c43f60784e6
+    - name: red hood itch free_Frame_54
+      frameIndex: 54
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: e15d8d7557f138844b869452897d34e8
+    - name: red hood itch free_Frame_55
+      frameIndex: 55
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 6b36ae44eb88e6145b5c01a0bc6ef2a9
+    - name: red hood itch free_Frame_56
+      frameIndex: 56
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 851e72b148485b7429627ed13fa666d0
+    - name: red hood itch free_Frame_57
+      frameIndex: 57
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 7d610e69b42069b4d982170344167bb4
+    - name: red hood itch free_Frame_58
+      frameIndex: 58
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: f0e92fc1869ff9d49b4339037bd525e7
+    - name: red hood itch free_Frame_59
+      frameIndex: 59
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: fb39fc378e743b349b9c58ea4463e1f3
+    - name: red hood itch free_Frame_60
+      frameIndex: 60
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 2ea4e00dd797aa8448263fa44e139fbd
+    - name: red hood itch free_Frame_61
+      frameIndex: 61
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: d20825f23ff71e242b0cf3c85910ace2
+    - name: red hood itch free_Frame_62
+      frameIndex: 62
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 61dce5178aee778459878cd7ff5990f0
+    - name: red hood itch free_Frame_63
+      frameIndex: 63
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 63ec27a25b8b3884f8bbbd6f881c996e
+    - name: red hood itch free_Frame_64
+      frameIndex: 64
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: cadd3f69d0bb7964bb0416086ef272c7
+    - name: red hood itch free_Frame_65
+      frameIndex: 65
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: aec5ec584aa85014fa2e63fdfd9863f7
+    - name: red hood itch free_Frame_66
+      frameIndex: 66
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 53fff7202b03b504985048d71e8abe22
+    - name: red hood itch free_Frame_67
+      frameIndex: 67
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 23d1dc98065d53643a2d8c855407d849
+    - name: red hood itch free_Frame_68
+      frameIndex: 68
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 84fee19983613644fbc5711042d7678d
+    - name: red hood itch free_Frame_69
+      frameIndex: 69
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: beae63c41c7f8b5498b6c0a4d6933919
+    - name: red hood itch free_Frame_70
+      frameIndex: 70
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: d0bbd7b4e55232b48aa45a35f073a6a6
+    - name: red hood itch free_Frame_71
+      frameIndex: 71
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 5ce05e08f83fc3f4c9e03d4678d45983
+    - name: red hood itch free_Frame_72
+      frameIndex: 72
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 8903201aa02538a4ba94635832ed34f9
+    - name: red hood itch free_Frame_73
+      frameIndex: 73
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: fea11daedefc2fe4bb34fbecb962d1ea
+    - name: red hood itch free_Frame_74
+      frameIndex: 74
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 9c3051b03bcfd794e85fb6bab6c2e983
+    - name: red hood itch free_Frame_75
+      frameIndex: 75
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: a67ae9d4aa1dde245a670580cc3a80d1
+    - name: red hood itch free_Frame_76
+      frameIndex: 76
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 3800e6d8886804949b7eebb16379ac94
+    - name: red hood itch free_Frame_77
+      frameIndex: 77
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 88ce81e55f45784489b1d0041c4b4fc7
+    - name: red hood itch free_Frame_78
+      frameIndex: 78
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 505d0b69157a554499696503d2756ccf
+    - name: red hood itch free_Frame_79
+      frameIndex: 79
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: d7acf0b782bf86d45b3a0c8b269a2852
+    - name: red hood itch free_Frame_80
+      frameIndex: 80
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 290a8f179f9d3c74c9a70300b60d1c54
+    - name: red hood itch free_Frame_81
+      frameIndex: 81
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 0d5160f8ab106604d83114e946185d91
+    - name: red hood itch free_Frame_82
+      frameIndex: 82
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 58e6a99317bf34948b3231b374f26200
+    - name: red hood itch free_Frame_83
+      frameIndex: 83
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 94f0a9b1d0e11404c9228e8afcf46862
+    - name: red hood itch free_Frame_84
+      frameIndex: 84
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 7b4133718a757554f9b5b017cc61de47
+    - name: red hood itch free_Frame_85
+      frameIndex: 85
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 4bd5a329b3fc51e4ea0f2b65d0df9c60
+    - name: red hood itch free_Frame_86
+      frameIndex: 86
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: a917862fb08773b49954e77e0fcda7c6
+    - name: red hood itch free_Frame_87
+      frameIndex: 87
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 12c1c2e71fd21bd4192a66cfa17c34b9
+    - name: red hood itch free_Frame_88
+      frameIndex: 88
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 2fd3a47b2c7260e429c12b4864996f80
+    - name: red hood itch free_Frame_89
+      frameIndex: 89
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 8c39f141099491c418fc10ab5698f8ff
+    - name: red hood itch free_Frame_90
+      frameIndex: 90
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: cecf0b27a8d3a7c4e8ec2f1ddea25091
+    - name: red hood itch free_Frame_91
+      frameIndex: 91
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 7cc82c9cfd2518d4189d050ff6f87d1f
+    - name: red hood itch free_Frame_92
+      frameIndex: 92
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: af52e128834d7fa458627a14eb3ccaab
+    - name: red hood itch free_Frame_93
+      frameIndex: 93
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 8fbe521ef0e7b63498bcde61b7e3a6d4
+    - name: red hood itch free_Frame_94
+      frameIndex: 94
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 53d1371029418ca4e9b3c52a0771c90d
+    - name: red hood itch free_Frame_95
+      frameIndex: 95
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 13f178683600c7f48bcf20d113da2744
+    - name: red hood itch free_Frame_96
+      frameIndex: 96
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 2e61b2dab2f75954e9dd9aec5785ebf4
+    - name: red hood itch free_Frame_97
+      frameIndex: 97
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 3fb687a4aa3028e4d8dab73c78b4f9e1
+    - name: red hood itch free_Frame_98
+      frameIndex: 98
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 9e0747aae088f574b876304ab9204ff6
+    - name: red hood itch free_Frame_99
+      frameIndex: 99
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 85ac0d020feb8604a863d26e9bc536c6
+    - name: red hood itch free_Frame_100
+      frameIndex: 100
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 23d7cba59c5b3254b98f4c4a216f8257
+    - name: red hood itch free_Frame_101
+      frameIndex: 101
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: d97792fb3a6c3c44f85b1ff7c2c3ef54
+    - name: red hood itch free_Frame_102
+      frameIndex: 102
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 6a6a1e70a4ad61a4cbb2d90435e38f8e
+    - name: red hood itch free_Frame_103
+      frameIndex: 103
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 96b25ff9d5ae17f4b8a8fb164f4c8bd5
+    - name: red hood itch free_Frame_104
+      frameIndex: 104
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 5389bf77d75fa984db4eefe4d8428377
+    - name: red hood itch free_Frame_105
+      frameIndex: 105
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 277634cb3320dc142bab5123ea701acf
+    - name: red hood itch free_Frame_106
+      frameIndex: 106
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: b8fcd3bd8f2dbe448ae1c7faf6441391
+    - name: red hood itch free_Frame_107
+      frameIndex: 107
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 80b1b6e53a55f004f893759d07413e99
+    - name: red hood itch free_Frame_108
+      frameIndex: 108
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 38a5e04a82624af43aa7d42f70a41874
+    - name: red hood itch free_Frame_109
+      frameIndex: 109
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 774f8d06b47316c48bcb0a1cf5cb3980
+    - name: red hood itch free_Frame_110
+      frameIndex: 110
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 56685a789c9303b419319ac5aa094b30
+    - name: red hood itch free_Frame_111
+      frameIndex: 111
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 657dbfbf1c23b2a4dac852ec9e5f7a04
+    - name: red hood itch free_Frame_112
+      frameIndex: 112
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 828f734893384c24998a477bead32578
+    - name: red hood itch free_Frame_113
+      frameIndex: 113
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: f5749263b6d963b40b3a357928ccfc42
+    - name: red hood itch free_Frame_114
+      frameIndex: 114
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 7c9e14037a9fb1640b8e167c774c3e87
+    - name: red hood itch free_Frame_115
+      frameIndex: 115
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: b1ed893114fffe248b0143d23bc2a04c
+    - name: red hood itch free_Frame_116
+      frameIndex: 116
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 0993db227cd4c70418faeaec72d7594b
+    - name: red hood itch free_Frame_117
+      frameIndex: 117
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 849ec09947ff3e64dac5548e6b3889f6
+    - name: red hood itch free_Frame_118
+      frameIndex: 118
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 4bf931429f501d94ea15c7ffdc8f6fd4
+    - name: red hood itch free_Frame_119
+      frameIndex: 119
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 09b6eaff8a514ce4992412e0363d3093
+    - name: red hood itch free_Frame_120
+      frameIndex: 120
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 0075f5997b3ff8742992438296a73c8d
+    - name: red hood itch free_Frame_121
+      frameIndex: 121
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: b75bdb5d8b938794da05f103a9dd4aa2
+    - name: red hood itch free_Frame_122
+      frameIndex: 122
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: f591b938b6daafc49938903fb11cfa4a
+    - name: red hood itch free_Frame_123
+      frameIndex: 123
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 1e33bdf006eee4e4c809c9bfca8931a1
+    - name: red hood itch free_Frame_124
+      frameIndex: 124
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 970e44dacc2369e4e829f3c35cacf780
+    - name: red hood itch free_Frame_125
+      frameIndex: 125
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 6b2781a6f36a668429df4fbd652e0b0f
+    - name: red hood itch free_Frame_126
+      frameIndex: 126
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 4897e05c04a097c49b50595b5705ea0c
+    - name: red hood itch free_Frame_127
+      frameIndex: 127
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: f5daf29b733cbcd44b318dc86839c2de
+    - name: red hood itch free_Frame_128
+      frameIndex: 128
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: e16584b35f0427d46b15f5ecd79755c5
+    - name: red hood itch free_Frame_129
+      frameIndex: 129
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 14c0b0e62730bdf4a8784cdef95c6acb
+    - name: red hood itch free_Frame_130
+      frameIndex: 130
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 9309f4b20a2722043b605a28a435daa3
+    - name: red hood itch free_Frame_131
+      frameIndex: 131
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: e059c247f4b4be341a9909d26c70fe71
+    - name: red hood itch free_Frame_132
+      frameIndex: 132
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 6876603c6535b7147962a2a7e8056a62
+    - name: red hood itch free_Frame_133
+      frameIndex: 133
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: 131a054dbe0e01644a3b0de029fe66e1
+    - name: red hood itch free_Frame_134
+      frameIndex: 134
+      additiveSortOrder: 0
+      cellRect:
+        x: -8
+        y: -36
+        width: 219
+        height: 169
+      spriteId: b86b2e6e785f828478496b0a88207a3b
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 211, y: 133}

@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 8a9838e534f11be42bc6099bcc878afc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d333e57487faf54dae8d4c406618416
+      internalID: 934482624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5155ae176bb8c4a9b171c9e87f6232
+      internalID: -1392207541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dd749f94a9bb1469236b65718197e6
+      internalID: -2014672787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0482c2d16fc3045b592de1f618f9a3
+      internalID: -1050767766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9993f6fb38c84348bcf54c911959937
+      internalID: -478352744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dec8eea9ead2a4419b6ae6f91112668
+      internalID: -2051902350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62316aa85a81c104183de5aea736e841
+      internalID: -1876839924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1306aa7ab3bbef04ca02625e85327537
+      internalID: -1144790686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d22ae915fcb2419ef600162092f3b
+      internalID: -197279412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a54fb53a8e08df40afca6ae7448c32d
+      internalID: 155906793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e61576e8ba4f4e91b7485ce445bf7
+      internalID: 1406538873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64faadeb822bf9d4fab77f52b4abfad8
+      internalID: 2253318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbf22ad1384857408adf7497fb48a1b
+      internalID: -1719852514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5859fdc6525a86045b94399b7151d3b3
+      internalID: -1894991686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7036d490cb72419569c72da8613ec
+      internalID: 1186222788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a4e0a4d11b2b409aa3ec2fd5ffd7c
+      internalID: -1350899712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80831355bf228d34caf6d20ea23e8730
+      internalID: -622825419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3719684a83675847b0a429fdc566381
+      internalID: -2059205202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37049a16d9ea8a74cb9d1b5705c6d1ae
+      internalID: -1842742858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d542cfa9de5e1ba47b4abaf7475dc936
+      internalID: -1961903581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c083bbae9942c4ab91240358fc50ac
+      internalID: 983279064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b91182f59cebb4eada89e1e1a82e57
+      internalID: -1731956521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f8daadcb91e242bff936899538867
+      internalID: -1018803559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1249064928802b4197f922628f01362
+      internalID: -1829036588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f6197c2071319459841243da8a5b4a
+      internalID: -1584285197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: itch light atk sheet-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 21
+        width: 56
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5cb3e41a2b5641a4dfa17dbebf6f8
+      internalID: -1665312603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b4c89a8ba0a94904b8e56b6c3cd10c6c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      itch light atk sheet-Sheet_0: 934482624
+      itch light atk sheet-Sheet_1: -1392207541
+      itch light atk sheet-Sheet_10: 1406538873
+      itch light atk sheet-Sheet_11: 2253318
+      itch light atk sheet-Sheet_12: -1719852514
+      itch light atk sheet-Sheet_13: -1894991686
+      itch light atk sheet-Sheet_14: 1186222788
+      itch light atk sheet-Sheet_15: -1350899712
+      itch light atk sheet-Sheet_16: -622825419
+      itch light atk sheet-Sheet_17: -2059205202
+      itch light atk sheet-Sheet_18: -1842742858
+      itch light atk sheet-Sheet_19: -1961903581
+      itch light atk sheet-Sheet_2: -2014672787
+      itch light atk sheet-Sheet_20: 983279064
+      itch light atk sheet-Sheet_21: -1731956521
+      itch light atk sheet-Sheet_22: -1018803559
+      itch light atk sheet-Sheet_23: -1829036588
+      itch light atk sheet-Sheet_24: -1584285197
+      itch light atk sheet-Sheet_25: -1665312603
+      itch light atk sheet-Sheet_3: -1050767766
+      itch light atk sheet-Sheet_4: -478352744
+      itch light atk sheet-Sheet_5: -2051902350
+      itch light atk sheet-Sheet_6: -1876839924
+      itch light atk sheet-Sheet_7: -1144790686
+      itch light atk sheet-Sheet_8: -197279412
+      itch light atk sheet-Sheet_9: 155906793
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
